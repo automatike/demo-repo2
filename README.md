@@ -6,4 +6,4 @@ Some Description!
 
 ##Local development
 
-1. Open index.html in yopur browser.
+1. Open index.html in yopur browser.!
